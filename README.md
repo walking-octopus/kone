@@ -6,9 +6,9 @@
 
 ### Controls
 
-**Move: **Arrow keys
-
-**Jump: **Arrow up. Tripple jump
+| **Move:** | Arrow keys |
+| --- | --- |
+| **Jump** | Arrow up. Tripple jump |
 
 **Notes**: you can jump on background code; You won't collide with inserted movable code.
 
