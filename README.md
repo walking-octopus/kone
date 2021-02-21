@@ -6,7 +6,7 @@
 
 ### Controls
 
-| **Move:** | Arrow keys |
+| **Move** | Arrow keys |
 | --- | --- |
 | **Jump** | Arrow up. Tripple jump |
 
