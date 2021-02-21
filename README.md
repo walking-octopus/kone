@@ -2,10 +2,10 @@
 
 ### About the game
 
-!Kone is a calming 2D puzzle platformer about programming, made in 5 days on [Brackeys Game Jam 2021.1](https://itch.io/jam/brackeys-5).
-
 <img align="right" width="200" height="120" src="https://img.itch.zone/aW1hZ2UvOTI3OTY1LzUyNDg4ODMucG5n/347x500/BDqK6W.png">
 <img align="right" width="200" height="120" src="https://img.itch.zone/aW1hZ2UvOTI3OTY1LzUyNDg5MDUucG5n/347x500/muRgKI.png">
+
+!Kone is a calming 2D puzzle platformer about programming, made in 5 days on [Brackeys Game Jam 2021.1](https://itch.io/jam/brackeys-5).
 
 ### Controls
 
