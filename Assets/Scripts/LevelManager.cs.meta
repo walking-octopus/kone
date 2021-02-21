@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c141298288c0b346aaa765a7c3b6557
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SFX: {fileID: 483271499231001392, guid: 61b515d281b99634f8113cdf52bd3085, type: 3}
+  - hitSound: {fileID: 8300000, guid: 62721741860269743a63ddf809d75068, type: 3}
+  - winSound: {fileID: 8300000, guid: 19097935864a375479e0569cf8cdd5ad, type: 3}
+  - loader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
